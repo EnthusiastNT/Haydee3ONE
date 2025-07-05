@@ -1,0 +1,8 @@
+Custom\Games\ONE.game
+Localized\Translations\ONE_English.translate
+ONE\*.* -r
+Scenes\ONE_*.scene
+
+# your files go here:
+ONE\your_name\*.* -r
+Scenes\ONE_your_name_*.scene
